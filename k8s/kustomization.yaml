@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: goserver
-  newName: vaguiiinho/gitopsfc
-  newTag: newtag
+  newName: vaguiiinho/gitops
+  newTag: f96d7180adc7e3cdd1b46e24478e969444af5392
