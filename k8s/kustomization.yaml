@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: vaguiiinho/gitops
-  newTag: f96d7180adc7e3cdd1b46e24478e969444af5392
+  newTag: 7844d75229335d195d9c3e1517f8f5677624c641
